@@ -177,7 +177,7 @@ export default async function createConfigAsync() {
     projectName: 'docusaurus-docs-test',
     baseUrl,
     baseUrlIssueBanner: true,
-    //url: 'https://docusaurus.io',
+    url: 'https://AaronNGray.github.io/docusaurus-docs-test',
     future: {
       v4: !isSlower, // Not accurate, but good enough
       faster: isSlower
